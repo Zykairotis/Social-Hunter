@@ -1,0 +1,5 @@
+2025-06-30 00:33:50,158 - instagram - INFO - No session file found, attempting fresh login
+2025-06-30 00:33:50,158 - instagram - INFO - Attempting fresh login for asrotx
+2025-06-30 00:33:50,158 - instagrapi - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-06-30 00:33:50,562 - private_request - INFO - asrotx [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-06-30 00:33:50,960 - instagrapi - INFO - https://i.instagram.com/api/v1/accounts/login/
